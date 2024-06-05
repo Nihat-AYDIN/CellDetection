@@ -6,8 +6,8 @@ This project involves detecting, counting, and identifying the centers of cells 
 ## Project Details
 
 ### Authors
-- [Muhammet Hamza Yavuz]("https://github.com/hamza37yavuz")  
-- [Muhammed Nihat Aydın]("https://github.com/Nihat-AYDIN")  
+- [Muhammet Hamza Yavuz](https://github.com/hamza37yavuz)  
+- [Muhammed Nihat Aydın](https://github.com/Nihat-AYDIN)  
 
 ## Methodology
 1. **Grayscale Conversion**: The input image is converted to a grayscale format to facilitate the detection of dark-toned cells.
