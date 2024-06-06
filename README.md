@@ -34,6 +34,13 @@ The project features a Streamlit web interface, allowing dynamic adjustment of p
 - **Total Image Pixel Count**: 262144 pixels
 - **Proportion of Image Occupied by Cells**: Approximately 1.89%
 
+- **_Original:_**
+- ![](https://github.com/hamza37yavuz/CellDetection/blob/main/I.png)
+
+  
+- **_Detected:_**
+- ![](https://github.com/hamza37yavuz/CellDetection/blob/main/Detected.png)
+
 ## Files Included
 - `streamlit.py`: Streamlit interface code
 - `main.py`: Main processing code
